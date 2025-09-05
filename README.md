@@ -19,7 +19,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 - After downloading the datasets, you are supposed to put them into './dataset/', and the file format reference is as follows. (take the DeepGlobe dataset as an example.)
 
-- '/dataset/'
+- dataset
   - train
     - images
       - ...
