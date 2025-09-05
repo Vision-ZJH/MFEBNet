@@ -1,0 +1,1 @@
+- After trianing, you could obtain the results in './results/'
