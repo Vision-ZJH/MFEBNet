@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MFEBNet
-=======
 # MFEBNet
 
 ## 0. Main Environments
@@ -54,4 +51,3 @@ python train.py
 
 ## 3. Obtain the outputs
 - After trianing, you could obtain the results in './results/'
->>>>>>> 882b073 (first commit)
